@@ -1,0 +1,14 @@
+.idea
+.vscode
+*.exe
+*.log
+node_modules/
+junit.xml
+package-lock.json
+package.json
+report.json
+report.xml
+dist
+.cache
+.mod
+.build
